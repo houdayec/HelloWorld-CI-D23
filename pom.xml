@@ -5,7 +5,7 @@
     <!-- ADAPTER LES PROPRIETES SUIVANTES -->
     <properties>
         <!-- Le nom court du projet a utiliser pour github -->
-        <projectShortName>helloworldtp2</projectShortName>
+        <projectShortName>HelloWorld-CI-D23</projectShortName>
         <github.account>houdayec</github.account>
         <!-- utln login for nexus (maven and docker ) repository on lsis -->
         <lsisnexus.login>corentin.houdayer@etud.univ-tln.fr</lsisnexus.login>
@@ -51,7 +51,7 @@
     <!-- ADAPTER les métadonnées -->
     <name>helloworldtp2</name>
     <description></description>
-    <url>https://${github.account}.github.io/helloworldtp2/</url>
+    <url>https://${github.account}.github.io/HelloWorld-CI-D23/</url>
     <inceptionYear>2017</inceptionYear>
 
     <organization>
@@ -61,10 +61,10 @@
 
     <!--developers>
         <developer>
-            <id>emmanuelbruno</id>
-            <name>Emmanuel Bruno</name>
-            <email>bruno@univ-tln.fr</email>
-            <url>http://bruno.univ-tln.fr</url>
+            <id>houdayec</id>
+            <name>Corentin Houdayer</name>
+            <email>corentin-houdayer@etud.univ-tln.fr</email>
+            <url>http://corentin-houdayer.com</url>
             <organization>Université de Toulon</organization>
             <organizationUrl>http://www.univ-tln.fr</organizationUrl>
             <roles>
